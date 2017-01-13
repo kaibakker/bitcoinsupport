@@ -1,6 +1,6 @@
 ---
 layout: question
-title: "Buy Bitcoin in New York?"
+title: "Buy Bitcoin in New York"
 description: "You can buy bitcoin through Coinbase, Gemini or itBit"
 tags: [bitcoin, buy, New York, legal]
 ---
