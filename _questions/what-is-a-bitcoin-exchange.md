@@ -11,7 +11,7 @@ People can buy and sell bitcoins on bitcoin exchanges.
 
 ## Get started
 
-If you want to buy bitcoins on a bitcoin exchange, you go to the website of a bitcoin exchange, for example [coinbase](www.coinbase.com), [kraken](kraken.com) or [poloniex](poloniex.com).
+If you want to buy bitcoins on a bitcoin exchange, you go to the website of a bitcoin exchange, for example [coinbase](https://www.coinbase.com), [kraken](https://kraken.com) or [poloniex](https://poloniex.com).
 
 Before you can start trading, you will be asked to make an account. This process should be fairly self-explanatory and they are generally willing to offer help if you don't understand what you should do.
 
@@ -34,4 +34,4 @@ Now you have a certain amount of bitcoins in your trading account. If you want t
 
 ## What now?
 
-I would like to invite you to read up on these concepts and start trading on a very small scale, just to understand how everything works. If you understand how exchanges work and how the (price-)dynamics of people buying and selling stuff works, you'll understand a lot more about economics and markets. Very valuable! It is up to you to determine to what extent you are willing to get involved with trading bitcoins. Most people [Hodl](http://www.decentral.support/glossary/HODL/). 
+I would like to invite you to read up on these concepts and start trading on a very small scale, just to understand how everything works. If you understand how exchanges work and how the (price-)dynamics of people buying and selling stuff works, you'll understand a lot more about economics and markets. Very valuable! It is up to you to determine to what extent you are willing to get involved with trading bitcoins. Most people [Hodl](http://www.decentral.support/questions/what-is-hodl/). 
