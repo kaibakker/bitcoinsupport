@@ -76,7 +76,6 @@ hr {
 .site-header {
   border-top: 5px solid $light-gray-color;
   border-bottom: 1px solid lighten($light-gray-color, 5%);
-  margin-bottom: $small-spacing;
   min-height: 80px;
 }
 
@@ -255,4 +254,28 @@ hr {
 
 #search-results {
     margin-top: 20px
+}
+
+.button {
+    background-color: #ec2028;
+    color: white;
+    padding: 10px;
+}
+
+
+.button:hover {
+    background-color: #ff4e55;
+}
+
+.construction {
+    display: block;
+}
+
+.construction p, .construction h1 {
+    text-align: center;
+}
+
+.intro {
+    background-color: #f7f7f7;
+    padding: 1.5em 0;
 }
