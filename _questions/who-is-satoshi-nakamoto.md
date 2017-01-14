@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: article
 title: "Who is Satoshi Nakamoto?"
 description: "Satoshi Nakamoto is the person or persons who designed bitcoin and created its original reference implementation"
 tags: [who is, satoshi nakamoto, wikipedia, bitcoin, blockchain]

@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: draft
 title: "What is the current bitcoin price?"
 description: "Different places to find out about the bitcoin price"
 tags: [bitcoin, price, bitpay]

@@ -11,14 +11,8 @@ If you don't have a Github account, you can create one here.
 If you don't know about markdown, you can learn it in 5 minutes, here.
 
 
-##### Edit pages
-1. Go to the question you want to edit, click below on edit.
-2. You are sent to GitHub, where you are asked to fork the repository, click on fork.
-3. Now you can edit the page to your liking, don't be afraid to edit too much.
-4. Come up with a good commit name and click commit
-5. Now click on send pull request and you are done.
-6. One of our reviewers will check out your changes and will merge it or comment on it.
+### Get involved
 
-##### Add new questions
-
-##### Translate questions to different languages
+1. [Connect to the decentral support slack chat](https://slack-decentral-support.herokuapp.com)
+2. [Edit a page](/questions/edit-a-page)
+3. [Create a new page](/questions/create-a-page)

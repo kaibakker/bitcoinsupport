@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: article
 title: "What is the bitcoin halving?"
 description: "Bitcoin support is a modern wiki that helps you understand every corner of the bitcoin world."
 tags: [bitcoin, halving, reward]

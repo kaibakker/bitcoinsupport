@@ -1,4 +1,5 @@
 ---
+layout: draft
 title: "Buy bitcoins with SEPA through bitsquare"
 ---
 

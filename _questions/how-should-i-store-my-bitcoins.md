@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: draft
 title: "How should I store my bitcoins?"
 description: "A guide that helps you to store your bitcoins safely"
 tags: [sample post, code, highlighting]

@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: article
 title: "What is hodl?"
 description: "Hold on to your bitcoins"
 ---

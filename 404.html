@@ -1,13 +1,43 @@
 ---
 layout: default
 permalink: /404.html
+title: "Whoops, page not found"
 ---
-<header>
-  <h1 class="header-small">
-    <a href="{{ site.baseurl }}">{{ site.name }}</a>
-  </h1>
-</header>
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  <span>Sorry, but the page you were trying to view does not exist.</span>
-</div>
+
+<section class="">
+  <div class="container">
+
+    <img src='/assets/images/page-does-not-exist.png' />
+
+
+    <div>
+        <form class="search-bar" role="search" action="/search" method="get">
+          <input type="search" placeholder="Enter Search" id="search-box" name="query"/>
+          <button type="submit">
+            <img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/search-icon-black.png" alt="Search Icon">
+          </button>
+        </form>
+
+        <div id="search-results"></div>
+    </div>
+  </div>
+</section>
+
+<script>
+  window.store = {
+    {% for post in site.questions %}
+      "{{ post.url | slugify }}": {
+        "title": "{{ post.title | xml_escape }}",
+        "author": "{{ post.author | xml_escape }}",
+        "category": "{{ post.category | xml_escape }}",
+        "description": "{{ post.description | xml_escape }}",
+        "tags": "{{ post.tags | xml_escape }}",
+        /* "content": {{ post.content | strip_html | strip_newlines | jsonify }}, */
+        "url": "{{ post.url | xml_escape }}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  };
+</script>
+<script src="/js/elasticlunr.min.js"></script>
+<script src="/js/search.js"></script>

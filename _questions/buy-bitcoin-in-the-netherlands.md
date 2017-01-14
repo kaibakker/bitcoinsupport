@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: draft
 title: "Buy bitcoin in the Netherlands"
 description: "You can buy bitcoin through Coinbase, Gemini or itBit"
 tags: [bitcoin, buy, New York, legal]

@@ -1,5 +1,5 @@
 ---
-layout: question
+layout: article
 title: "Should I start mining bitcoin?"
 description: "Probably Not, around the world there a big companies with specialized equipment trying to mine bitcoin."
 tags: [bitcoin, units, basic]
