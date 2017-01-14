@@ -52,10 +52,8 @@ kramdown:
 nav:
   - name:           "questions"
     url:            "/questions"
-  - name:           "contribute"
+  - name:           "get involved"
     url:            "/contribute"
-  - name:           "about"
-    url:            "/about"
   - name:           "search"
     url:            "/search"
 
