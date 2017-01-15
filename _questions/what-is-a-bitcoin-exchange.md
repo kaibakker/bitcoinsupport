@@ -11,7 +11,7 @@ People can buy and sell bitcoins on bitcoin exchanges.
 
 ## Get started
 
-If you want to buy bitcoins on a bitcoin exchange, you go to the website of a bitcoin exchange, for example [coinbase](www.coinbase.com), [kraken](kraken.com) or [poloniex](poloniex.com).
+If you want to buy bitcoins on a bitcoin exchange, you go to the website of a bitcoin exchange, for example [coinbase](https://www.coinbase.com), [kraken](https://kraken.com) or [poloniex](https://poloniex.com).
 
 Before you can start trading, you will be asked to make an account. This process should be fairly self-explanatory and they are generally willing to offer help if you don't understand what you should do.
 
@@ -27,11 +27,11 @@ I omitted a few things here to keep it simple. What I described above here is a 
 
 You may see how a very large buy order will buy so many bitcoins at increasing prices, that the last bitcoin bought will be significantly more expensive than the first. This will have caused a higher bitcoin price. The speed at which this happens (or rather, how much money is required to cause a certain price change) is called __market resistance__. You may now also understand that exchanges with a lot of orders in the order book will have more market resistance.
 
-## Withdrawing funds
+## Withdrawing funds!
 
 Now you have a certain amount of bitcoins in your trading account. If you want to store the bitcoins somewhere securely, you need to transfer them to a wallet. For more info, please refer to [How should I store my bitcoins](http://www.decentral.support/questions/how-should-i-store-my-bitcoins/).
 
 
 ## What now?
 
-I would like to invite you to read up on these concepts and start trading on a very small scale, just to understand how everything works. If you understand how exchanges work and how the (price-)dynamics of people buying and selling stuff works, you'll understand a lot more about economics and markets. Very valuable! It is up to you to determine to what extent you are willing to get involved with trading bitcoins. Most people [Hodl](http://www.decentral.support/glossary/HODL/).
+I would like to invite you to read up on these concepts and start trading on a very small scale, just to understand how everything works. If you understand how exchanges work and how the (price-)dynamics of people buying and selling stuff works, you'll understand a lot more about economics and markets. Very valuable! It is up to you to determine to what extent you are willing to get involved with trading bitcoins. Most people [Hodl](http://www.decentral.support/questions/what-is-hodl/).

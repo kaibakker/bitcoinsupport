@@ -5,7 +5,7 @@ description: "You can buy bitcoin through Coinbase, Gemini or itBit"
 tags: [bitcoin, buy, New York, legal]
 ---
 
-You should be able to buy bitcoins though the following services:
+You should be able to buy bitcoins though the following services
 
 - Coinbase
 - Gemini
