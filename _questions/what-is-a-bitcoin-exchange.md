@@ -34,8 +34,4 @@ Now you have a certain amount of bitcoins in your trading account. If you want t
 
 ## What now?
 
-<<<<<<< HEAD
-I would like to invite you to read up on these concepts and start trading on a very small scale, just to understand how everything works. If you understand how exchanges work and how the (price-)dynamics of people buying and selling stuff works, you'll understand a lot more about economics and markets. Very valuable! It is up to you to determine to what extent you are willing to get involved with trading bitcoins. Most people [Hodl](http://www.decentral.support/glossary/HODL/).
-=======
 I would like to invite you to read up on these concepts and start trading on a very small scale, just to understand how everything works. If you understand how exchanges work and how the (price-)dynamics of people buying and selling stuff works, you'll understand a lot more about economics and markets. Very valuable! It is up to you to determine to what extent you are willing to get involved with trading bitcoins. Most people [Hodl](http://www.decentral.support/questions/what-is-hodl/).
->>>>>>> 808f743d8d7d06a49eff1bfe1a9f0aa4fcb2fb27
